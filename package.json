@@ -1,0 +1,32 @@
+{
+  "name": "fwa43nagireddy",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "^4.3.2",
+    "express": "^4.17.1",
+    "http-errors": "^1.8.0",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.2"
+  },
+  "description": "assignment",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagireddyakhilredddy/fwa43nagireddy.git"
+  },
+  "keywords": [
+    "akhil",
+    "reddy"
+  ],
+  "author": "nagireddyakhilreddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagireddyakhilredddy/fwa43nagireddy/issues"
+  },
+  "homepage": "https://github.com/nagireddyakhilredddy/fwa43nagireddy#readme"
+}
