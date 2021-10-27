@@ -4,7 +4,7 @@ var value=Math.round(Math.random()*100);
 
 var s=Math.hypot(value)  ;
 var t=Math.ceil(value)  
-var h=Math.clz32(value)
+var h=Math.clz32(valueg)
  
 
 /* GET home page. */
